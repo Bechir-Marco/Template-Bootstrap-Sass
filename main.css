@@ -1,0 +1,54 @@
+@font-face {
+  font-family: "lacuna_regularregular";
+  src: url("/fontface/Lacuna-Regular-fontfacekit/fonts/lacuna_regular_macroman/lacuna-webfont.eot");
+  src: url("/fontface/Lacuna-Regular-fontfacekit/fonts/lacuna_regular_macroman/lacuna-webfont.eot?#iefix") format("embedded-opentype"), url("/fontface/Lacuna-Regular-fontfacekit/fonts/lacuna_regular_macroman/lacuna-webfont.woff2") format("woff2"), url("/fontface/Lacuna-Regular-fontfacekit/fonts/lacuna_regular_macroman/lacuna-webfont.woff") format("woff"), url("/fontface/Lacuna-Regular-fontfacekit/fonts/lacuna_regular_macroman/lacuna-webfont.ttf") format("truetype"), url("/fontface/Lacuna-Regular-fontfacekit/fonts/lacuna_regular_macroman/lacuna-webfont.svg#lacuna_regularregular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+.navbar {
+  background-color: #2d2b2b;
+}
+.navbar .nav-link {
+  color: white;
+  font-family: "League Gothic", sans-serif;
+  font-size: 2.25rem;
+}
+
+.navbar-brand {
+  background-color: #eaeaea;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  padding-left: 1.31rem;
+  padding-right: 1.31rem;
+}
+
+.row .bg {
+  background-color: #3a0a1d;
+  height: 20rem;
+}
+.row .bg svg {
+  color: #e4bc01;
+}
+.row .bg p {
+  color: #c7bdc1;
+}
+
+.text {
+  font-size: 1.2rem;
+  font-family: "lacuna_regularregular";
+}
+
+.bt {
+  background-color: #e4bc01;
+  bottom: -2.6rem !important;
+}
+
+.bi {
+  color: #eaeaea;
+  font-size: 25px;
+}
+
+.bgF {
+  background-color: #e4bc01;
+  height: 10rem;
+}/*# sourceMappingURL=main.css.map */
