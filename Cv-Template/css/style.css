@@ -1,0 +1,110 @@
+@font-face {
+  font-family: "Lato";
+  src: url("/Fonts/Lato/Lato-Regular.ttf");
+}
+@font-face {
+  font-family: "Playfair_Display_SC";
+  src: url("/Fonts/Playfair_Display_SC/PlayfairDisplaySC-Bold.ttf");
+}
+.bi-person-circle {
+  font-size: 3rem;
+}
+
+.footer {
+  height: 7.25rem;
+  background-color: #f4f4f4;
+}
+
+.section03 {
+  display: flex;
+  justify-content: flex-start;
+  top: 2.3rem;
+}
+
+.bi-instagram {
+  font-size: 1.8rem;
+  color: #848484;
+}
+
+.bi-github {
+  font-size: 1.8rem;
+  color: #848484;
+}
+
+.bi-discord {
+  font-size: 1.8rem;
+  color: #848484;
+}
+
+.bi-slack {
+  font-size: 1.8rem;
+  color: #848484;
+}
+
+.bi-youtube {
+  font-size: 1.8rem;
+  color: #848484;
+}
+
+.section04 {
+  width: 100%;
+  margin-top: 50px;
+}
+
+.text {
+  font-family: "Playfair_Display_SC";
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #bc694e;
+}
+
+.text1 {
+  font-family: "Lato" !important;
+}
+
+.bi-trophy-fill {
+  font-size: 2.6rem;
+  color: #333333;
+}
+
+.bi-code-slash {
+  font-size: 2.6rem;
+  color: #333333;
+}
+
+.bi-bag-fill {
+  font-size: 2.6rem;
+  color: #333333;
+}
+
+.text3 {
+  font-family: "Playfair_Display_SC";
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.text-justify {
+  text-align: justify;
+  text-indent: 30px;
+}
+
+.center {
+  position: relative;
+  top: 50px;
+}
+
+.bg {
+  background-color: #f4f4f4;
+}
+
+.top {
+  top: 100px;
+  width: 35rem;
+}
+
+.nav-link {
+  color: #848484 !important;
+  font-size: 1.2rem;
+}
+
+/*# sourceMappingURL=style.css.map */
